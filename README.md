@@ -1,4 +1,4 @@
-# (ATM) Bank of Dhruva CS4240 Procedural and Object Oriented Programming (Final Project)
+# (ATM) Bank of Dhruva-CS4240 Procedural and Object Oriented Programming (Final Project)
 
 ### Dhruva, Alex, Anderson
 *(*Dhruva in this scenario is very wealthy since he has his own bank*)*
