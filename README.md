@@ -1,7 +1,5 @@
-Procedural-Final-Project-
-This was my final project for CS4240 Procedural and Object Oriented Programming
+# (ATM) Bank of Dhruva CS4240 Procedural and Object Oriented Programming (Final Project)
 
-# (ATM) Bank of Dhruva 
 ### Dhruva, Alex, Anderson
 *(*Dhruva in this scenario is very wealthy since he has his own bank*)*
 
